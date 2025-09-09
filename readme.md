@@ -1,3 +1,7 @@
+## 新增 2025-09-09
+- 增加`mindmap2xmind_recursive.py`，指定一个目录，递归转换其下所有`.mindmap`文件为`.xmind`文件
+- 增加`xmind2md_recursive.py`，将指定目录下所有`.xmind`文件转换为`.md`文件
+
 ## mindmap和xmind互相转换
 
 在网上找到了2个库,一个是官方原版,适用python2  
